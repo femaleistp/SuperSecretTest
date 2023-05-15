@@ -34,3 +34,21 @@ escape: takes out of insert mode
 :wq (you will see it below the white bar at the bottom of the page, in the black bar, then press enter and that will write and quit)>
 
 git config --global user.email "femaleentp@gmail.com"
+
+
+git status
+
+git add .  (tracks including subdirectories)
+
+git commit -m "fixed merge conflict in README.md"
+-m is for message, must enter "message" or it will send to terminal to insert message, must add message to commit, will abort
+
+
+
+git status
+
+git add .  (tracks including subdirectories)
+
+git commit -m "fixed merge conflict in README.md"
+-m is for message, must enter "message" or it will send to terminal to insert message, must add message to commit, will abort
+
